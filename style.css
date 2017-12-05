@@ -1,0 +1,36 @@
+
+#main {
+    padding: 20px;
+}
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: black;
+  font: 10-px sans-serif;
+  text-anchor: end;
+}
+
+.x_axis path,
+.x_axis line {
+    stroke: black;
+}
+.x_axis text {
+    fill:black;
+}
+
+.y_axis path,
+.y_axis line {
+    stroke: black;
+}
+
+.y_axis text {
+    fill:black;
+}
+
+.axis_label text {
+     fill: black;
+    font: 10-px sans-serif;
+    text-anchor: end;
+}
